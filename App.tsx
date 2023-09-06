@@ -7,7 +7,7 @@ export default function App() {
     <View className="bg-black text-white h-full w-full">
       <Navbar />
       <View className="p-4">
-        <Text className="text-white">Le N2 Template</Text>
+        <Text className="text-accent">Le N2 Templates</Text>
       </View>
     </View>
   );
